@@ -120,7 +120,7 @@ A partir do seguinte vetor:
 var nomes = ["Diego", "Gabriel", "Lucas"];
 ```
 
-Preencha uma lista (```HTML <ul>```) no HTML com os itens da seguinte forma:
+Preencha uma lista (```<ul>```) no HTML com os itens da seguinte forma:
 
 ● Diego
 
