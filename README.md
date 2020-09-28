@@ -132,5 +132,7 @@ Preencha uma lista (```<ul>```) no HTML com os itens da seguinte forma:
 
 Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:
 
-```<input type="text" name="nome"> <button onClick="adicionar()">Adicionar</button>
+```HTML
+<input type="text" name="nome"> 
+<button onClick="adicionar()">Adicionar</button>
 ```
