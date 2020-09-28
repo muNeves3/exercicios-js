@@ -18,7 +18,7 @@ Crie uma função que dado o objeto a seguir:
  
 Retorne o seguinte conteúdo:
 
- ```txt
+ ```
  O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com
  nº 1293.
  ```
