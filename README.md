@@ -120,10 +120,17 @@ A partir do seguinte vetor:
 var nomes = ["Diego", "Gabriel", "Lucas"];
 ```
 
-Preencha uma lista (```HTML <ul>```) no HTML com os itens da seguinte forma:
+Preencha uma lista (```<ul>```) no HTML com os itens da seguinte forma:
 
 ● Diego
 
 ● Gabriel
 
 ● Lucas
+
+**4º Exercício**
+
+Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:
+
+```<input type="text" name="nome"> <button onClick="adicionar()">Adicionar</button>
+```
