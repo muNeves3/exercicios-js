@@ -1,6 +1,6 @@
-## Rocketseat Javascript exercices
+# Rocketseat Javascript exercices
 
-# Exercícios do módulo 1:
+## Exercícios do módulo 1::rocket:
 
 **1º exercício**
 
