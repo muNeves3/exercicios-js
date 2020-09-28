@@ -86,3 +86,5 @@ var usuarios = [
 O Diego possui as habilidades: Javascript, ReactJS, Redux
 O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
  ```
+
+## Exercícios do módulo 2 :rocket:
