@@ -186,5 +186,15 @@ Depois de preencher o input e adicionar, a seguinte lista deve aparecer abaixo:
  <li>repo4</li>
  <li>repo5</li>
 </ul>
-
 ```
+
+**3º Exercício**
+
+A partir do resultado do exemplo anterior adicione um indicador de carregamento em tela no lugar
+da lista apenas enquanto a requisição estiver acontecendo:
+
+```HTML
+<li>Carregando...</li>
+```
+
+Além disso, adicione uma mensagem de erro em tela caso o usuário no Github não exista.
