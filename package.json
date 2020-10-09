@@ -4,8 +4,11 @@
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12"
   },
- "type": "module",
+  "type": "module",
   "scripts": {
     "dev": "webpack --mode=development -w"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
   }
 }
